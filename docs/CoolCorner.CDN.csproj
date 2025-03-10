@@ -1,8 +1,2 @@
-﻿<Project>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
-    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ProjectGuid>{BA8F5912-E280-404E-A2E7-9E7B130326F0}</ProjectGuid>
-  </PropertyGroup>
+﻿<Project Sdk="Microsoft.NET.Sdk">
 </Project>
